@@ -1,0 +1,56 @@
+.header{
+    background-color: lavenderblush;
+}
+
+
+.menu{
+    font-size: x-large;
+}
+
+.box{
+    background-color: rgb(253, 193, 193);
+    margin-right:  400px; 
+    margin-left: 400px;
+}
+
+h1{
+    font-family: cursive;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.enitre{
+    background-color: lavenderblush;
+}
+
+a:link{
+    color: mintcream;
+    }
+a:visited{
+        color: rgb(134, 189, 161);
+    }
+
+.origami:hover{
+    transform: scale(1.2);
+}
+
+/*
+.sidebar{
+    background-color: aliceblue;
+    margin-left: 1200px;
+    padding-bottom: 2000px;
+}
+
+
+.square{
+    display: flex; 
+    justify-content: column;
+    margin-right: 1200px;
+}
+#two, #four{
+    background-color: rgb(245, 255, 250);
+}
+#one, #three{
+    background-color: rgb(253, 193, 193);
+} */
+
